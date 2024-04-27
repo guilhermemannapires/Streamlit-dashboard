@@ -1,4 +1,4 @@
-Using Streamlit to create a dashboard with Python in VS Code (Streamlit, Pandas, Plotly, Datetime)
+**Using Streamlit to create a dashboard with Python in VS Code (Streamlit, Pandas, Plotly, Datetime)**
 
 <img width="1440" alt="Captura de Tela 2024-04-27 às 21 55 54" src="https://github.com/guilhermemannapires/Streamlit-dashboard/assets/167683716/555ef2c7-536c-4ce3-a66b-9eaed34667e5">
 
